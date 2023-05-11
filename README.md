@@ -14,10 +14,13 @@ Fazman-s/Fazman-s is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 🔭 I’m currently working on Google Cloud Platform
-- 🌱 I’m currently learning DSA in Java and DevOps
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<br>
+
+- 🔭 I’m currently enrolled in Google Cloud facilitator program
+- 💻 I’m currently learning DSA in Java
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Kubernetes 
+- ⌚ I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/1ESOU2678A7jWSF2vYKfeY18txSmJdgcW?usp=sharing)
 - 💬 Ask me about Java
 - 📫 How to reach me:[Twitter](https://twitter.com/fazmansam1)
 <!-- - 😄 Pronouns: ... -->
