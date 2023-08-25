@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
-- 🔭 I’m currently enrolled in Google Cloud facilitator program
+- 🔭 Completed Google Cloud facilitator program
 - 💻 I’m currently learning DSA in Java
 - 👯 I’m looking to collaborate on open source
 - ⌚ I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JAAzuwmxDGowlP4r9kvB504Zpd7X5r5h/view?usp=sharing)
