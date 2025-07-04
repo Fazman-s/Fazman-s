@@ -17,15 +17,28 @@ You can click the Preview link to take a look at your changes.
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <br>
 
-- 🔭 Completed Google Cloud facilitator program
-- 💻 I’m currently learning DSA in Java
-- 👯 I’m looking to collaborate on open source
-- ⌚ I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1PNEtf8bmN4i_lcYofjJGpvovVoo3EdnE/view?usp=drive_link)
-- 💬 Ask me about Java
+- 💼 Business Analyst @ Quantiphi | Focused on P&C Insurance (Policy, Claims, UW)
+- 🧠 Delivering AI/ML Solutions to clients across the world
+- 🌐 Delivering cloud-based solutions (GCP, AWS, Snowflake) and business dashboards (Power BI, Excel)
+- 🔭 Completed Google Cloud facilitator program(2 Months)
+- 👯 Open to collaborate on open source
+- ⌚ Open to new opportunities, [Here’s my resume](https://drive.google.com/file/d/1PNEtf8bmN4i_lcYofjJGpvovVoo3EdnE/view?usp=drive_link)
 - 📫 How to reach me:[Twitter](https://twitter.com/fazmansam1),[LinkedIN](https://www.linkedin.com/in/fazman-s-587ab8240/)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
+---
+
+## 📜 Certifications
+
+- 🏅 **Associate Cloud Engineer** (GCP)  
+- 🏅 **Professional Cloud Architect** (GCP)  
+- 🏅 **Master SQL for Data Science** – Udemy  
+- 🏅 **Prompt Engineering for ChatGPT** – Vanderbilt  
+- 🏅 **Programming using Java** – Infosys  
+- 🏅 **Goldman Sachs Software Engineering Virtual Program**
+
+---
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Fazman-s?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
