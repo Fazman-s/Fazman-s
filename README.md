@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 Completed Google Cloud facilitator program
 - 💻 I’m currently learning DSA in Java
 - 👯 I’m looking to collaborate on open source
-- ⌚ I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JAAzuwmxDGowlP4r9kvB504Zpd7X5r5h/view?usp=sharing)
+- ⌚ I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1PNEtf8bmN4i_lcYofjJGpvovVoo3EdnE/view?usp=drive_link)
 - 💬 Ask me about Java
 - 📫 How to reach me:[Twitter](https://twitter.com/fazmansam1),[LinkedIN](https://www.linkedin.com/in/fazman-s-587ab8240/)
 <!-- - 😄 Pronouns: ... -->
