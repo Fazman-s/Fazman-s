@@ -1,16 +1,14 @@
 # Hi there, I'm Fazman 👋
 
-&lt;p align="center"&gt;
-  &lt;img src="https://raw.githubusercontent.com/Fazman-s/Fazman-s/main/banner.png" alt="Banner" width="100%" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Fazman-s&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /&gt;
-&lt;/p&gt;
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Fazman-s/Fazman-s/main/banner.png" alt="Banner" width="100%" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Fazman-s&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 💼 Solution Consultant | Business Analyst @ **Quantiphi**
 - 📊 Specialized in **Property & Casualty Insurance**
@@ -23,11 +21,13 @@
 
 📄 **Resume**
 
-&lt;a href="https://drive.google.com/file/d/12MvhCJtFPInTns78WTX71DMFjBLT5eWQ/view?usp=sharing"&gt;View Resume&lt;/a&gt;
+<a href="https://drive.google.com/file/d/12MvhCJtFPInTns78WTX71DMFjBLT5eWQ/view?usp=sharing">
+View Resume
+</a>
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 - Google Cloud Associate Cloud Engineer
 - Google Cloud Generative AI Leader
@@ -39,47 +39,42 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-&lt;p align="center"&gt;
-  &lt;img src="https://skillicons.dev/icons?i=python,java,react,nodejs,js,ts,html,css,tailwind,c,cpp,mysql,postgres,mongodb,firebase,gcp,aws,docker,git,github,vscode,postman&perline=8" /&gt;
-&lt;/p&gt;
-
----
-
-# 📊 GitHub Statistics
-
-&lt;p align="center"&gt;
-  &lt;img height="170" src="./stats/github-stats.svg" alt="GitHub Stats" /&gt;
-  &lt;img height="170" src="./stats/streak.svg" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img height="180" src="./stats/top-langs.svg" alt="Top Languages" /&gt;
-&lt;/p&gt;
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,js,ts,html,css,tailwind,c,cpp,mysql,postgres,mongodb,firebase,gcp,aws,docker,git,github,vscode,postman&perline=8" alt="Tech Stack"/>
+  </a>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-&lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/fazman-s-587ab8240/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://twitter.com/fazmansam1"&gt;
-    &lt;img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/Fazman-s"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:fazmansam4447@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fazman-s&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Fazman-s&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazman-s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
+</div>
 
 ---
 
-# 🚀 Featured Areas
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fazman-s-587ab8240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/fazmansam1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="https://github.com/Fazman-s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:fazmansam4447@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
+
+---
+
+## 🚀 Featured Areas
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -92,6 +87,6 @@
 
 ---
 
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /&gt;
-&lt;/p&gt;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Banner"/>
+</div>
