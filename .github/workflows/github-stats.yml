@@ -1,0 +1,35 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  push:
+    paths:
+      - ".github/workflows/github-stats.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        run: |
+          mkdir -p stats
+          curl -s "https://github-readme-stats.vercel.app/api?username=Fazman-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" > ./stats/github-stats.svg || echo "Stats API failed"
+
+      - name: Generate top languages card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Fazman-s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" > ./stats/top-langs.svg || echo "Top langs API failed"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ./stats/
+          git commit -m "Update GitHub stats" || exit 0
+          git push
